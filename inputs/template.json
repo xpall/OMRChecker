@@ -19,6 +19,66 @@
       "fieldLabels": [
         "q1..9"
       ]
+    },
+    "quadrant_2of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        630,
+        0
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q18..26"
+      ]
+    },
+    "quadrant_3of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        1088,
+        0
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q35..43"
+      ]
+    },
+    "quadrant_4of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        169,
+        1130
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q10..17"
+      ]
+    },
+    "quadrant_5of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        630,
+        1130
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q27..34"
+      ]
+    },
+    "quadrant_6of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        1088,
+        1129
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q44..50"
+      ]
     }
   },
   "preProcessors": [
