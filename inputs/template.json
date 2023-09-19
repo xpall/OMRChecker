@@ -1,0 +1,33 @@
+{
+  "pageDimensions": [
+    1540,
+    2130
+  ],
+  "bubbleDimensions": [
+    101,
+    101
+  ],
+  "fieldBlocks": {
+    "quadrant_1of6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [
+        169,
+        0
+      ],
+      "bubblesGap": 90,
+      "labelsGap": 115,
+      "fieldLabels": [
+        "q1..9"
+      ]
+    }
+  },
+  "preProcessors": [
+    {
+      "name": "CropOnMarkers",
+      "options": {
+        "relativePath": "omr_marker.jpg",
+        "sheetToMarkerWidthRatio": 11
+      }
+    }
+  ]
+}
