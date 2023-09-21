@@ -12,7 +12,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         169,
-        50
+        0
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -24,7 +24,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         630,
-        50
+        0
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -36,7 +36,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         1088,
-        50
+        0
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -48,7 +48,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         169,
-        1180
+        1130
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -60,7 +60,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         630,
-        1180
+        1130
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -72,7 +72,7 @@
       "fieldType": "QTYPE_MCQ4",
       "origin": [
         1088,
-        1180
+        1129
       ],
       "bubblesGap": 90,
       "labelsGap": 115,
@@ -87,23 +87,6 @@
       "options": {
         "relativePath": "omr_marker.jpg",
         "sheetToMarkerWidthRatio": 11
-      }
-    },
-    {
-      "name": "Levels",
-      "options": {
-        "low": 0.3,
-        "high": 0.1
-      }
-    },
-    {
-      "name": "GaussianBlur",
-      "options": {
-        "kSize": [
-          1,
-          1
-        ],
-        "sigmaX": 0
       }
     }
   ]
