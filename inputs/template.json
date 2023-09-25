@@ -86,13 +86,13 @@
       "name": "CropOnMarkers",
       "options": {
         "relativePath": "omr_marker.jpg",
-        "sheetToMarkerWidthRatio": 9
+        "sheetToMarkerWidthRatio": 11.75
       }
     },
     {
       "name": "Levels",
       "options": {
-        "low": 0.15,
+        "low": 0.45,
         "high": 0.55
       }
     },
